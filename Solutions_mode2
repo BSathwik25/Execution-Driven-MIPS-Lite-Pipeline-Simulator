@@ -1,0 +1,96 @@
+-----Instruction Count according to the Category--------------------
+Program Counter                : 112
+Total number of instructions   : 911
+Arithmetic instructions        : 375
+Logical instructions           : 61
+Memory Accessess               : 300
+Control Transfer Instructions  : 175
+---------------------------------------------------------------------
+
+
+-----------Final Register and Memory State---------------
+R[0]        : 0
+R[11]        : 1044
+R[12]        : 1836
+R[13]        : 2640
+R[14]        : 25
+R[15]        : -188
+R[16]        : 213
+R[17]        : 29
+R[18]        : 3440
+R[19]        : -1
+R[20]        : -2
+R[21]        : -1
+R[22]        : 76
+R[23]        : 3
+R[24]        : -1
+R[25]        : 3440
+
+
+-----------Final Memory State---------------
+Memory Address: 2400 and Contents: 2
+Memory Address: 2404 and Contents: 4
+Memory Address: 2408 and Contents: 6
+Memory Address: 2412 and Contents: 8
+Memory Address: 2416 and Contents: 10
+Memory Address: 2420 and Contents: 12
+Memory Address: 2424 and Contents: 14
+Memory Address: 2428 and Contents: 16
+Memory Address: 2432 and Contents: 18
+Memory Address: 2436 and Contents: 29
+Memory Address: 2440 and Contents: 22
+Memory Address: 2444 and Contents: 24
+Memory Address: 2448 and Contents: 26
+Memory Address: 2452 and Contents: 28
+Memory Address: 2456 and Contents: 30
+Memory Address: 2460 and Contents: 32
+Memory Address: 2464 and Contents: 34
+Memory Address: 2468 and Contents: 36
+Memory Address: 2472 and Contents: 38
+Memory Address: 2476 and Contents: 59
+Memory Address: 2480 and Contents: 42
+Memory Address: 2484 and Contents: 44
+Memory Address: 2488 and Contents: 46
+Memory Address: 2492 and Contents: 48
+Memory Address: 2496 and Contents: 50
+Memory Address: 2500 and Contents: 52
+Memory Address: 2504 and Contents: 54
+Memory Address: 2508 and Contents: 56
+Memory Address: 2512 and Contents: 58
+Memory Address: 2516 and Contents: 89
+Memory Address: 2520 and Contents: 62
+Memory Address: 2524 and Contents: 64
+Memory Address: 2528 and Contents: 66
+Memory Address: 2532 and Contents: 68
+Memory Address: 2536 and Contents: 70
+Memory Address: 2540 and Contents: 72
+Memory Address: 2544 and Contents: 74
+Memory Address: 2548 and Contents: 76
+Memory Address: 2552 and Contents: 78
+Memory Address: 2556 and Contents: 119
+Memory Address: 2560 and Contents: 82
+Memory Address: 2564 and Contents: 84
+Memory Address: 2568 and Contents: 86
+Memory Address: 2572 and Contents: 88
+Memory Address: 2576 and Contents: 90
+Memory Address: 2580 and Contents: 92
+Memory Address: 2584 and Contents: 94
+Memory Address: 2588 and Contents: 96
+Memory Address: 2592 and Contents: 98
+Memory Address: 2596 and Contents: 149
+Memory Address: 2600 and Contents: 2
+Memory Address: 2604 and Contents: 4
+Memory Address: 2608 and Contents: 6
+Memory Address: 2612 and Contents: 8
+Memory Address: 2616 and Contents: 10
+Memory Address: 2620 and Contents: 12
+Memory Address: 2624 and Contents: 14
+Memory Address: 2628 and Contents: 16
+Memory Address: 2632 and Contents: 18
+Memory Address: 2636 and Contents: 29
+----------------------------------------------------------------------
+-----------------Timing Simulator:Non-Forwarding ---------------------
+Total number of clock cycles: 1707
+Total Stalls : 554
+----------------------------------------------------------------------
+Program Halted
