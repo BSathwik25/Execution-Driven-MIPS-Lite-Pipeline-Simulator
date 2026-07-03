@@ -1,0 +1,30 @@
+# vsim -c "+MODE=3" "+INPUT=final_proj_trace.txt" top -do "run -all; quit" 
+# Start time: 22:46:33 on Jun 05,2025
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# //  Questa Sim-64
+# //  Version 2024.2 linux_x86_64 May 20 2024
+# //
+# // Unpublished work. Copyright 2024 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+# Loading sv_std.std
+# Loading work.top(fast)
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /top/dut1/file_operation File: mips2_interface_version.sv Line: 58
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /top/dut2/file_operation File: mips2_interface_version.sv Line: 333
+# ** Warning: (vsim-PLI-3691) Expected a system task, not a system function '$fscanf'.
+#    Time: 0 ns  Iteration: 0  Region: /top/dut3/file_operation File: mips2_interface_version.sv Line: 754
+# run -all
+# ** Note: $finish    : top.sv(31)
+#    Time: 21910 ns  Iteration: 1  Instance: /top
+# End time: 22:46:33 on Jun 05,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 3
