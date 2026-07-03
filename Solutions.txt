@@ -1,0 +1,40 @@
+-----Instruction Count according to the Category--------------------
+Program Counter                : 100
+Total number of instructions   : 638
+Arithmetic instructions        : 333
+Logical instructions           : 50
+Memory Accessess               : 103
+Control Transfer Instructions  : 152
+---------------------------------------------------------------------
+
+
+-----------Final Register and Memory State---------------
+R[0]        : 0
+R[1]        : 1200
+R[2]        : 1400
+R[3]        : 100
+R[4]        : 50
+R[5]        : 50
+R[6]        : 0
+R[7]        : 25
+R[8]        : 2550
+R[9]        : 1275
+R[10]        : 50
+R[11]        : 50
+R[12]        : 32
+
+
+-----------Final Memory State---------------
+Memory Address: 1400 and Contents: 25
+Memory Address: 1404 and Contents: 2550
+Memory Address: 1408 and Contents: 1275
+----------------------------------------------------------------------
+-----------------Timing Simulator:Non-Forwarding ---------------------
+Total number of clock cycles: 1095
+Total Stalls : 301
+----------------------------------------------------------------------
+-------------------Timing Simulator:Forwarding------------------------
+Total number of clock cycles: 844
+Total Stalls : 50
+----------------------------------------------------------------------
+Program Halted
